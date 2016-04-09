@@ -1,0 +1,43 @@
+_repo: Twelve-Years-a-Slave-Narrative-of-Solomon-Northup-a-Citizen-of-New-York-Kidnapped-in-Washingt__45631
+_version: 0.0.1
+alternative_title: "12 Years a Slave\r\nNarrative of Solomon Northup, a Citizen of\
+  \ New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton\
+  \ Plantation near the Red River in Louisiana"
+covers:
+- cover_type: archival
+  image_path: 45631/45631-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Northup, Solomon
+    aliases:
+    - Northup, S. (Solomon)
+    - Platt
+    - Northrup, Solomon
+    birthdate: 1808
+    gutenberg_agent_id: '43390'
+    url: http://www.gutenberg.org/2009/agents/43390
+description: ''
+gutenberg_issued: '2014-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45631'
+  lccn: '10034503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northup, Solomon, 1808-1863?'
+- !lcsh 'Slaves -- United States -- Biography'
+- !lcsh 'Slaves'' writings, American'
+- !lcc 'E300'
+- !lcsh 'African Americans -- Biography'
+- !lcsh 'Slavery -- Louisiana -- History -- 19th century'
+- !lcsh 'Plantation life -- Louisiana -- History -- 19th century'
+- GITenberg
+title: "Twelve Years a Slave\r\nNarrative of Solomon Northup, a Citizen of New-York,\
+  \ Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation\
+  \ near the Red River in Louisiana"
+url: http://www.gutenberg.org/ebooks/45631
