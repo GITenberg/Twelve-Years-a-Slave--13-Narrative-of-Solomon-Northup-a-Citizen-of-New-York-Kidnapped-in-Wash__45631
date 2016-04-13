@@ -50,7 +50,7 @@ deploy:
     - Twelve-Years-a-Slave-Narrative-of-Solomon-Northup-a-Citizen-of-New-York-Kidnapped-in-Washington-City-in-1841-and-Rescued-in-1853-from-a-Cotton-Plantation-near-the-Red-River-in-Louisiana.mobi
     - Twelve-Years-a-Slave-Narrative-of-Solomon-Northup-a-Citizen-of-New-York-Kidnapped-in-Washington-City-in-1841-and-Rescued-in-1853-from-a-Cotton-Plantation-near-the-Red-River-in-Louisiana.pdf
   "on":
-    repo: GITenberg/Twelve-Years-a-Slave-Narrative-of-Solomon-Northup-a-Citizen-of-New-York-Kidnapped-in-Washingt__45631
+    repo: GITenberg/Twelve-Years-a-Slave--13-Narrative-of-Solomon-Northup-a-Citizen-of-New-York-Kidnapped-in-Wash__45631
 addons:
   apt:
     packages:
