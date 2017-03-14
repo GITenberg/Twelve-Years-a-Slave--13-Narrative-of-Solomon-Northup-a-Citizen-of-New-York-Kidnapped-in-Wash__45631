@@ -1,13 +1,11 @@
 _repo: Twelve-Years-a-Slave--13-Narrative-of-Solomon-Northup-a-Citizen-of-New-York-Kidnapped-in-Wash__45631
-_version: 0.1.1
+_version: 0.2.0
 alternative_title: "12 Years a Slave\r\nNarrative of Solomon Northup, a Citizen of\
   \ New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton\
   \ Plantation near the Red River in Louisiana"
 covers:
 - cover_type: archival
-  image_path: 45631/45631-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 45631-h/images/cover.jpg
 creator:
   author:
     agent_name: Northup, Solomon
@@ -19,6 +17,8 @@ creator:
     gutenberg_agent_id: '43390'
     url: http://www.gutenberg.org/2009/agents/43390
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45631#Twelve-Years-a-Slave--13-Narrative-of-Solomon-Northup-a-Citizen-of-New-York-Kidnapped-in-Wash_
 gutenberg_issued: '2014-05-11'
 gutenberg_type: Text
 identifiers:
